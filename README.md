@@ -1,1 +1,0 @@
-# Print-capital-when-you-enter-state-using-nested-if-in-C.c
